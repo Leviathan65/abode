@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742714413136",
+    "project_id": "abodes-20e86",
+    "storage_bucket": "abodes-20e86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742714413136:android:02571d871c67c99eb4c155",
+        "android_client_info": {
+          "package_name": "com.example.abodesv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrUFbYkLvifZskB1RUHQcMGtNgeHbcQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
